@@ -212,7 +212,7 @@ This is a portfolio project. Feel free to fork and customize!
 
 ## Author
 
-**Abdul Hasan** - [GitHub](https://github.com/abulhasan-18)
+**Mohammed Abulhasan** - [GitHub](https://github.com/abulhasan-18)
 
 ## Repository
 
