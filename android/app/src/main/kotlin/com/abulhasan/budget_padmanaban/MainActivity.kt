@@ -1,4 +1,4 @@
-package com.example.budget_padmanaban
+package com.abulhasan.budget_padmanaban
 
 import io.flutter.embedding.android.FlutterActivity
 

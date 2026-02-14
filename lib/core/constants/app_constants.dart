@@ -1,6 +1,6 @@
 class AppConstants {
   // App Info
-  static const String appName = 'BudgetTracker';
+  static const String appName = 'Budget Padmanaban';
   static const String appVersion = '1.0.0';
 
   // Supabase Configuration
