@@ -3,9 +3,9 @@ class AppConstants {
   static const String appName = 'BudgetTracker';
   static const String appVersion = '1.0.0';
 
-  // Supabase - IMPORTANT: Replace with your actual Supabase credentials
-  static const String supabaseUrl = 'YOUR_SUPABASE_URL';
-  static const String supabaseAnonKey = 'YOUR_SUPABASE_ANON_KEY';
+  // Supabase Configuration
+  static const String supabaseUrl = 'https://zgyyilqfjhuomubmmkwa.supabase.co';
+  static const String supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpneXlpbHFmamh1b211Ym1ta3dhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzEwMDAxMjIsImV4cCI6MjA4NjU3NjEyMn0.rhDid0f3AtLkTY-0wP88B24-CYE01f68jX6tmzWw38U';
 
   // Database Tables
   static const String usersTable = 'users';
